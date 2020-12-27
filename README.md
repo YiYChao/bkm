@@ -1,0 +1,2 @@
+# bkm
+Django learning project
